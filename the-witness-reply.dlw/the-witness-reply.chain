@@ -2,8 +2,8 @@ ROOT0-DLW-CHAIN-v1
 index : 429
 slug  : the-witness-reply
 seal  : 992b4ef0d1f65632e5c0d5875bbcb8e79940615cfe9ef25e01459a41b5caee0f
-prev  : cde3f2a5dcc37e00c85166f032b30eef8e4da7f54bfa3ed224d755539327f757
-link  : 04c1ee61aa182c4cb13745dfe677605fb90d80429f022481a9e2ad6b6a75663c
-head  : 13f9ace173ef2e60af38912ba329b4afcb5a38b84a0e4495e8d30327f8c99cc2
+prev  : 1917f838a87a2a43cc7f165b46bde113be3adb6421d09df5a79dbcc5ed400c6e
+link  : 048ac77068d84671918abcd41a7f553547d923eaa3caed50616f43658f0fb620
+head  : c4d41afeaef76470528856d54d86cf480a0e1c2fc8ebc60fbb9eb8e442585f2b
 
 — the tether: link = sha256(index|slug|seal|prev). the chain head commits to the whole corpus.
